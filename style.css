@@ -1,0 +1,28 @@
+body{
+  background-image: url(langit.jpg);
+  background-size: cover;
+}
+div{
+  width: 750px;
+  height: 450px;
+  border: 2px solid black;
+  background-color: white;
+  background-image: url(avocado.jpg);
+  background-size: 50% 55%;
+  background-repeat: repeat-y;
+  overflow:scroll;
+}
+p{
+  color: blue;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: right;
+}
+.dua{
+  color: green;
+  text-align: left;
+}
+.tiga{
+  color: red;
+  margin-right: 20px;
+}
